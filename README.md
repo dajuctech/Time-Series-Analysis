@@ -98,4 +98,4 @@ This project implements a comprehensive time series analysis and forecasting pip
 
 This pipeline demonstrates a robust approach to time series analysis on physiological data, covering everything from data cleaning and exploratory analysis to advanced forecasting models and error metric computation. By applying transformations to ensure stationarity and leveraging multiple modeling techniques (ARIMA, SARIMA, SARIMAX), the project provides a detailed framework for accurate heart rate forecasting.
 
-Feel free to explore and modify the code to adapt it to other time series datasets or forecasting challenges.
+
